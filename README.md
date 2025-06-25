@@ -38,9 +38,3 @@ Make sure you have the following installed:
 
 ---
 
-## 🛠️ Install Dependencies
-
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/resume-parser.git
-cd resume-parser
