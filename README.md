@@ -26,11 +26,6 @@ A user-friendly **Resume Parser** application built using **HTML**, **CSS**, **J
 - **NLTK / spaCy** – NLP for extracting information.
 - **Jinja2** – Template rendering.
 
----
-
-## 👇 Demo
-
-![App Demo Screenshot](Screenshot.png)
 
 ---
 
